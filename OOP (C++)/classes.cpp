@@ -7,7 +7,7 @@ using namespace std;
 
 class HelloWorld{
 private:
-    string contact = "0321-1471124";
+    string contact = "0321-xxxxxxxx";
 public:
     string name = "Rehman ALi";
     string rollno = "BSSE-E2-55";
